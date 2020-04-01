@@ -38,7 +38,7 @@ void loop()
 }
 
 
-void turnTheWheel()
+void turnTheWheel() //main program
 {
 		for (int LED = 0; LED < NUM_LEDS; ++ LED)
 		{
